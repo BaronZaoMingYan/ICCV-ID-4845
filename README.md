@@ -15,7 +15,7 @@
 
 ## Examples of the optical flow (x8 Multi-Frame Interpolation). 
 <table>
-<tr> <td><img src="gif/pic3.gif"></td> </tr>    
+<tr> <td><img src="gif/youtube_flow1.gif"></td> </tr>    
 <tr> <td><img src="gif/youtube_x8_flow.gif"></td> </tr>  
 </table>
 
